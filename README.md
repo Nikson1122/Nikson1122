@@ -9,7 +9,7 @@
 - 🌱 Always learning new technologies to improve efficiency and problem-solving skills  
 - 🔍 Interested in building **secure, maintainable, and high-performance** applications  
 - ✨ Knowledge of **JavaScript** for frontend functionality  
-- 🌐 **Portfolio:** [Visit My Website](YOUR_HOSTED_SITE_LINK)
+- 🌐 **Live Website:** [Visit My Website](YOUR_HOSTED_SITE_LINK)
 
 ---
 
