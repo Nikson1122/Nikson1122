@@ -14,6 +14,7 @@
 ---
 
 ### 🛠️ Tech Stack
+
 #### **Languages & Frameworks**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -48,30 +49,23 @@
 - **💳 eSewa/Khalti Payment Integration** – Secure payment gateway integration in Django  
 - **📊 Attendance Management System** – Role-based access, time tracking, reporting  
 - **📦 Inventory Management System** – Filter, track, and manage items with advanced search  
-- **🚗 Vehicle Rental App** – Includes payment gateway integration and backend APIs
+- **🚗 Vehicle Rental App** – Includes payment gateway integration and backend APIs  
+- **☕ Java Project Example** – Make sure `.java` files exist in `src/` for GitHub to detect
 
 ---
 
 ### 📊 GitHub Stats & Languages
-> ⚠ **Note:** Java might not appear here unless you have public repos with `.java` source files. If your Java code is private or compiled only, GitHub won’t detect it.  
-> To fix this, upload at least one public Java project with `.java` files in a `src/` folder.
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikson1122&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikson1122&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikson1122&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikson1122&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikson1122&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </p>
 
----
-
-### 📈 Real-Time GitHub Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikson1122&bg_color=0d1117&color=79fe96&line=79fe96&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+> ⚠ **Note:** GitHub counts only `.java` files in public repos on the default branch. Make sure your Java project is in `src/` and pushed to `main/master`.  
 
 ---
 
@@ -79,8 +73,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/nikson-shrestha-a39387213/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Nikson1122" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 💡 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+
