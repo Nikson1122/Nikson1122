@@ -65,6 +65,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikson1122&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </p>
 
+---
+
+### 📈 Real-Time GitHub Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikson1122&bg_color=0d1117&color=79fe96&line=79fe96&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
 > ⚠ **Note:** GitHub counts only `.java` files in public repos on the default branch. Make sure your Java project is in `src/` and pushed to `main/master`.  
 
 ---
@@ -79,4 +86,3 @@
 ---
 
 💡 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
-
